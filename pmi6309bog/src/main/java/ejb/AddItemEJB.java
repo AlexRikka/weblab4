@@ -1,6 +1,5 @@
 package ejb;
 
-import classes.Customer;
 import classes.DBConnector;
 import classes.Item;
 
