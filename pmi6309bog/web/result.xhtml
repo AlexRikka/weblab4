@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="ru" lang="ru"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+>
+<h:head>
+    <link rel="stylesheet" type="text/css" href="common.css"/>
+</h:head>
+<body>
+
+<h:outputText>
+    <h1>Интернет-магазин</h1>
+    <h2>Добро пожаловать, #{cust.name}! Вот список всех ваших заказов.</h2>
+</h:outputText>
+
+<div class="container">
+    <ui:repeat var="order" value="#{cust.customer.getOrderList()}">
+
+        <h:dataTable var="item" value="#{order.getItemList()}">
+            <h:column>
+                <f:facet name="header">Номер заказа</f:facet>
+                #{order.order_id}
+            </h:column>
+            <h:column>
+                <f:facet name="header">Наименование товара</f:facet>
+                #{item.name}
+            </h:column>
+            <h:column>
+                <f:facet name="header">Количество</f:facet>
+                #{item.amount}
+            </h:column>
+            <h:column>
+                <f:facet name="header">Стоимость</f:facet>
+                #{item.cost}
+            </h:column>
+        </h:dataTable>
+        <h:form>
+            <h:commandButton value="Добавить товар" action="#{insert.insertPage(order.order_id, cust.customer)}" class="addbtn">
+            </h:commandButton>
+        </h:form>
+    </ui:repeat>
+
+</div>
+
+<div class = "links">
+    <h:form>
+    <h:commandLink value="Выход" action="#{cust.logOut}"/>
+    </h:form>
+    <h:form>
+    <h:commandLink value="Скачать XML" action="#{cust.downloadXML}"/>
+    </h:form>
+</div>
+
+</body>
+</html>

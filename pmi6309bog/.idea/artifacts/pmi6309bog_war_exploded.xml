@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pmi6309bog:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pmi6309bog/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pmi6309bog" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

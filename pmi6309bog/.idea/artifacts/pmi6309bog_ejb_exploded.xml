@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="pmi6309bog:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pmi6309bog/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="pmi6309bog/ejb/EJB" />
+    </root>
+  </artifact>
+</component>

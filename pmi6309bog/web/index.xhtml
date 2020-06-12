@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="ru" lang="ru"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:a="http://xmlns.jcp.org/jsf/passthrough">
+<h:head>
+   <title>Интернет-магазин</title>
+   <link rel="stylesheet" type="text/css" href="common.css"/>
+</h:head>
+<h:body>
+
+   <h:form>
+      <div class="wrap">
+         <h1>Интернет-магазин</h1>
+         <p>Войдите, чтобы увидеть свои заказы</p><br/>
+         <p>#{cust.validState}</p>
+
+         <h:inputText id="login" class="login" a:placeholder="Логин"
+                      value="#{cust.login}" style= "#{cust.fieldColor}"/>
+         <br/>
+         <h:inputSecret id="password" class="password" a:placeholder="Пароль"
+                      value="#{cust.password}" style= "#{cust.fieldColor}"/>
+         <h:commandButton id="submit" value="Вход" class="btn"
+                          action="#{cust.validateUserLogin}"/>
+         <br/>
+      </div>
+   </h:form>
+</h:body></html>

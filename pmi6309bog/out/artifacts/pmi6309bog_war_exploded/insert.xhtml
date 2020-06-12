@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:a="http://xmlns.jcp.org/jsf/passthrough">
+
+<h:head>
+    <title>Интернет-магазин</title>
+    <link rel="stylesheet" type="text/css" href="common.css"/>
+</h:head>
+<h:body>
+    <h:form>
+        <div style="margin-left: 0px;">
+        <h1>Интернет-магазин</h1>
+        <p>Добавление товара в заказ № #{insert.itemOrderID}</p><br/>
+        </div>
+        <div style="margin-left: 500px;">
+        <h:inputText class="param" a:placeholder="Наименование товара" value="#{insert.itemName}"
+                     required="true"
+                     requiredMessage="Введите наименование товара" validator="#{insert.itemNameValidator}"/>
+        <h:inputText class="param"  a:placeholder="Количество" value="#{insert.itemQty}"
+                     required="true"
+                     requiredMessage="Введите количество" validator="#{insert.itemQtyValidator}"/>
+        <h:inputText class="param" a:placeholder="Цена за шт." value="#{insert.itemPrice}"
+                     required="true"
+                     requiredMessage="Введите цену" validator="#{insert.priceValidator}"/>
+        </div>
+        <div style="margin: 10px auto auto 700px;">
+        <h:commandButton value="Добавить" action="#{insert.addItem}" class="addbtn"/>
+        </div>
+        <h:panelGroup layout="block">
+            <h:messages style="color: red"/>
+        </h:panelGroup>
+    </h:form>
+</h:body>
+
+</html>
