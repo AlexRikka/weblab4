@@ -3,22 +3,16 @@ package ejb;
 import classes.Customer;
 import classes.DBConnector;
 import classes.Item;
-import classes.Order;
 
 import javax.ejb.EJB;
-import javax.ejb.Stateful;
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
-import javax.faces.bean.ViewScoped;
 import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;
 import javax.faces.validator.ValidatorException;
-import javax.persistence.criteria.CriteriaBuilder;
 import java.io.IOException;
-import java.io.Serializable;
 import java.sql.SQLException;
-import java.util.ArrayList;
 
 @ManagedBean(name="insert")
 @SessionScoped

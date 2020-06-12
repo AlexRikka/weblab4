@@ -6,13 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="269560f1-3da7-4245-bd72-a826d8c03451" name="Default Changelist" comment="Lab4 ready">
+    <list default="true" id="269560f1-3da7-4245-bd72-a826d8c03451" name="Default Changelist" comment="Lab4">
       <change afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../julia6309lab4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mylabapp/mylabapp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../weblab4/weblab4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejb/AddItemBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejb/AddItemBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weblab3" beforeDir="false" afterPath="$PROJECT_DIR$/../weblab3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
@@ -156,7 +162,7 @@
       <workItem from="1591919738349" duration="436000" />
       <workItem from="1591920230482" duration="137000" />
       <workItem from="1591921492510" duration="653000" />
-      <workItem from="1591922373352" duration="790000" />
+      <workItem from="1591922373352" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="Lab4 ready">
       <created>1591922759537</created>
@@ -165,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591922759537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab4 web">
+      <created>1591923204670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591923204670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +186,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab4 ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab4 ready" />
+    <MESSAGE value="Lab4 web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4 web" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="220" key="#BuildArtifactsBeforeRunChooser" timestamp="1591219991685">
@@ -208,10 +222,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591238118436" />
-    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1591922756085">
+    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1591923580868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591922756085" />
+    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591923580868" />
     <state x="564" y="282" key="DetectedRootsChooserDialog" timestamp="1591234648558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -220,10 +234,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591922521599" />
-    <state x="473" y="153" key="FileChooserDialogImpl" timestamp="1591921585151">
+    <state x="473" y="153" key="FileChooserDialogImpl" timestamp="1591923277795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="473" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591921585151" />
+    <state x="473" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591923277795" />
     <state width="1216" height="21" key="GridCell.Tab.0.bottom" timestamp="1591919617898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -292,14 +306,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1591233666482" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1591922154288">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591923144325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591922154288" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591922811980">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591923144325" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591923430155">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591922811980" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591923430155" />
     <state x="634" y="150" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591233717545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -312,6 +326,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1591238165401" />
+    <state x="556" y="313" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591923241067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="313" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591923241067" />
     <state x="209" y="73" key="new project wizard" timestamp="1591920126322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
