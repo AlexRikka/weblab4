@@ -7,125 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="269560f1-3da7-4245-bd72-a826d8c03451" name="Default Changelist" comment="Lab4 ready">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pmi6309bog_ejb_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pmi6309bog_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3dd089f3-14d5-4593-8f54-ada7ba39a052.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3dd089f3-14d5-4593-8f54-ada7ba39a052/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3dd089f3-14d5-4593-8f54-ada7ba39a052/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3dd089f3-14d5-4593-8f54-ada7ba39a052/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/EJB_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/IceFaces_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Mojarra_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/OpenFaces_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/PrimeFaces_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Richfaces_4_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ApacheLICENSE-2.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/CDDL-1.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/FastInfoset.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/MIT-LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/NOTICE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-beanutils.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.3-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections_2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-digester.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cssparser-0.9.4-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cssparser.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/dojo-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/el-api-2.2.1-b03.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/el-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icefaces-ace.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icefaces-compat.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icefaces.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/icepush.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb-api-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.faces-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jcommon.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jdom-1.0-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jfreechart-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jfreechart.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/json-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jxl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/krysalis-jCharts-1.0.0-alpha-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lgpl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/myfaces-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/openfaces-license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/openfaces.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-3.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/portlet2-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/portletfaces-bridge-2.0.2-ice-7875.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/primefaces-6.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/primefaces-6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/redistribution.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-components-api-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-components-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-components-ui-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-components-ui.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-core-api-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-core-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-core-impl-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/richfaces-core-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sac.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/classes/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/classes/DBConnector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/classes/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/classes/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/ejb/CustomerBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_ejb_exploded/ejb/CustomerEJB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/META-INF/pmi6309bog.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/classes/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/classes/DBConnector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/classes/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/classes/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/ejb/AddItemBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/ejb/AddItemEJB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/ejb/CustomerBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/classes/ejb/CustomerEJB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/faces-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/index.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/insert.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pmi6309bog_war_exploded/result.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pmi6309bog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/DBConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejb/AddItemBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejb/AddItemEJB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejb/CustomerBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejb/CustomerEJB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/pmi6309bog.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/DBConnector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classes/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ejb/AddItemBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ejb/AddItemEJB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ejb/CustomerBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ejb/CustomerEJB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/faces-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/insert.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/result.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../julia6309lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mylabapp/mylabapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weblab4/weblab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../weblab3" beforeDir="false" afterPath="$PROJECT_DIR$/../weblab3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,6 +52,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Programs/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar" />
@@ -173,7 +61,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.12011719" />
     <property name="project.structure.side.proportion" value="0.33678162" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="TomEE 8.5.55" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.55" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -268,8 +156,16 @@
       <workItem from="1591919738349" duration="436000" />
       <workItem from="1591920230482" duration="137000" />
       <workItem from="1591921492510" duration="653000" />
-      <workItem from="1591922373352" duration="327000" />
+      <workItem from="1591922373352" duration="790000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab4 ready">
+      <created>1591922759537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591922759537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +180,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="686" y="220" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1591219991685" />
+    <state x="654" y="275" key="#Notifications" timestamp="1591922887690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1591922887690" />
     <state x="472" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591819308814">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -308,10 +208,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591238118436" />
+    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1591922756085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591922756085" />
     <state x="564" y="282" key="DetectedRootsChooserDialog" timestamp="1591234648558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="282" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1591234648558" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1591922521599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591922521599" />
     <state x="473" y="153" key="FileChooserDialogImpl" timestamp="1591921585151">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -388,6 +296,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591922154288" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591922811980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591922811980" />
     <state x="634" y="150" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591233717545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
